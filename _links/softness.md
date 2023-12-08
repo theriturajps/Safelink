@@ -1,4 +1,4 @@
 ---
-short_link: tools
-long_link: www.gitforge.in/search/label/Tools
+short_link: softness
+long_link: files.gitforge.in/Softness Premium Blogger Template.zip
 ---
